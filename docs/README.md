@@ -78,6 +78,20 @@ HAS060 用各種マクロファイル。
 
 ---
 
+### 探しもの
+
+- AskSCSI V1.11At
+- FCOLOR.r (W_RINN氏作)
+- OVERTAKE (配布版)
+- infinity (縦シュー)
+- 正規書庫
+  - dskbench.x v0.45
+  - dma4 (初期版)
+- SRAMに書き込みを行うフロッピーディスク用IPLに関する情報
+- その他ROMや拡張ボードの情報
+
+---
+
 ### Author
 TcbnErik / 立花@桑島技研  
 [https://github.com/kg68k](https://github.com/kg68k)
