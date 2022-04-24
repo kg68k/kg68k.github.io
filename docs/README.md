@@ -69,7 +69,6 @@ HAS060 用各種マクロファイル。
 ---
 
 ## アーカイブのみ
-- [MINT310.ZIP](kg68k/arc/MINT310.ZIP) ... mint - Madoka INTerpreter version 3.10
 - [DIS316.ZIP](kg68k/arc/DIS316.ZIP) ... ソースコードジェネレータ for X680x0 version 3.16
 - [INFOL102.ZIP](kg68k/arc/INFOL102.ZIP) ... info-line version 1.02
 - [ZIP_HU12.ZIP](kg68k/arc/ZIP_HU12.ZIP) ... Zip 2.3 human68k-1.2
