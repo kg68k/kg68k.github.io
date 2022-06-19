@@ -29,12 +29,18 @@ HIOCS.X version 1.10+16の改造版。
 [HIOCSSRC.LZH](kg68k/orig/HIOCSSRC.LZH)
 
 ---
-### Console driver (バックログ専用)
+### condrv(em).sys - Console driver (バックログ専用)
 Console driver Type-D for X68000 version 1.09cの改造版。  
-WIP
+[https://github.com/kg68k/condrv](https://github.com/kg68k/condrv)
 
 オリジナルアーカイブ
 [CONDRV.LZH](kg68k/orig/CONDRV.LZH)
+
+---
+### condrv(em).sys manager XCONT
+condrv(em).sysの動作を制御するコマンド。  
+
+[https://github.com/kg68k/condrv-xcont](https://github.com/kg68k/condrv-xcont)
 
 ---
 ### HLK evolution
