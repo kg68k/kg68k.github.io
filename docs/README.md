@@ -80,6 +80,7 @@ HAS060 用各種マクロファイル。
 - [ZIP_HU12.ZIP](kg68k/arc/ZIP_HU12.ZIP) ... Zip 2.3 human68k-1.2
 - [UNZ_HU13.ZIP](kg68k/arc/UNZ_HU13.ZIP) ... UnZip 5.50 human68k-1.3
 - [UNZ_HU14.ZIP](kg68k/arc/UNZ_HU14.ZIP) ... UnZip 5.50 human68k-1.4
+- [TWSYS10.ZIP](kg68k/arc/TWSYS10.ZIP) ... (V)TwentyOne.sys version 1.36c modified +14 patchlevel 10
 
 ---
 
