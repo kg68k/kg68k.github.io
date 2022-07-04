@@ -69,8 +69,6 @@ HAS060 用各種マクロファイル。
 ---
 ### ぷにぐらま～ずまにゅある
 プログラミング用資料集。  
-暫定的にOrganizationで管理しているのでpunigraへの参加が必要です。  
-[https://github.com/punigra](https://github.com/punigra)
 
 ---
 
