@@ -83,10 +83,11 @@ HAS060 用各種マクロファイル。
 
 ## アーカイブのみ
 - [INFOL102.ZIP](kg68k/arc/INFOL102.ZIP) ... info-line version 1.02
-- [ZIP_HU12.ZIP](kg68k/arc/ZIP_HU12.ZIP) ... Zip 2.3 human68k-1.2
+- [LZD120.ZIP](kg68k/arc/LZD120.ZIP) ... lzd version 1.20
+- [TWSYS10.ZIP](kg68k/arc/TWSYS10.ZIP) ... (V)TwentyOne.sys version 1.36c modified +14 patchlevel 10
 - [UNZ_HU13.ZIP](kg68k/arc/UNZ_HU13.ZIP) ... UnZip 5.50 human68k-1.3
 - [UNZ_HU14.ZIP](kg68k/arc/UNZ_HU14.ZIP) ... UnZip 5.50 human68k-1.4
-- [TWSYS10.ZIP](kg68k/arc/TWSYS10.ZIP) ... (V)TwentyOne.sys version 1.36c modified +14 patchlevel 10
+- [ZIP_HU12.ZIP](kg68k/arc/ZIP_HU12.ZIP) ... Zip 2.3 human68k-1.2
 
 ---
 
@@ -97,6 +98,8 @@ HAS060 用各種マクロファイル。
 - OVERTAKE (配布版)
 - infinity (縦シュー)
 - 瘋 (日本語FEP)
+- MAS「鱒」(MADRV用のMusic file selecter)
+- cgcopy.r
 - 正規書庫
   - dskbench.x v0.45
   - dma4 (初期版)
