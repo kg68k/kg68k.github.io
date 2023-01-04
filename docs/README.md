@@ -83,7 +83,7 @@ HAS060 用各種マクロファイル。
 
 ## アーカイブのみ
 - [INFOL102.ZIP](kg68k/arc/INFOL102.ZIP) ... info-line version 1.02
-- [LZD120.ZIP](kg68k/arc/LZD120.ZIP) ... lzd version 1.20
+- [LZD121.ZIP](kg68k/arc/LZD121.ZIP) ... lzd / lzdsys version 1.21
 - [TWSYS10.ZIP](kg68k/arc/TWSYS10.ZIP) ... (V)TwentyOne.sys version 1.36c modified +14 patchlevel 10
 - [UNZ_HU13.ZIP](kg68k/arc/UNZ_HU13.ZIP) ... UnZip 5.50 human68k-1.3
 - [UNZ_HU14.ZIP](kg68k/arc/UNZ_HU14.ZIP) ... UnZip 5.50 human68k-1.4
@@ -102,7 +102,6 @@ HAS060 用各種マクロファイル。
 - cgcopy.r
 - 正規書庫
   - dskbench.x v0.45
-  - dma4 (初期版)
 - SRAMに書き込みを行うフロッピーディスク用IPLに関する情報
 - その他ROMや拡張ボードの情報
 
