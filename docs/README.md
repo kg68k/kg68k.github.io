@@ -61,6 +61,14 @@ SILK Hi-Speed Linker v3.01の改造版。
 [HLK301S.LZH](kg68k/orig/HLK301S.LZH)
 
 ---
+### PCM8A
+X68k polyphonic ADPCM driver PCM8A.Xの改造版。  
+[https://github.com/kg68k/pcm8a](https://github.com/kg68k/pcm8a)
+
+オリジナルアーカイブ
+[PCM8A102.LZH](kg68k/orig/PCM8A102.LZH)
+
+---
 ### u8tosj
 テキストをUTF-8からShift_JISへ変換するコマンド。  
 [https://github.com/kg68k/u8tosj](https://github.com/kg68k/u8tosj)
