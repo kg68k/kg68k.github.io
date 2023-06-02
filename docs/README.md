@@ -19,9 +19,6 @@ https://github.com/kg68k
 ## オリジナルアーカイブ
 
 - [SI218SRC.ZIP](kg68k/orig/SI218SRC.ZIP)
-- HIOCS.X
-  - [HIOCS16.LZH](kg68k/orig/HIOCS16.LZH)
-  - [HIOCSSRC.LZH](kg68k/orig/HIOCSSRC.LZH)
 - [CONDRV.LZH](kg68k/orig/CONDRV.LZH)
 - HLK
   - [HLK301B.LZH](kg68k/orig/HLK301B.LZH)
