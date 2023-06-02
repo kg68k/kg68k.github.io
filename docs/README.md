@@ -20,9 +20,6 @@ https://github.com/kg68k
 
 - [SI218SRC.ZIP](kg68k/orig/SI218SRC.ZIP)
 - [CONDRV.LZH](kg68k/orig/CONDRV.LZH)
-- HLK
-  - [HLK301B.LZH](kg68k/orig/HLK301B.LZH)
-  - [HLK301S.LZH](kg68k/orig/HLK301S.LZH)
 - [PCM8A102.LZH](kg68k/orig/PCM8A102.LZH)
 
 ---
