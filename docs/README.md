@@ -8,7 +8,6 @@ https://github.com/kg68k
 
 ## アーカイブ
 
-- [LZD121.ZIP](kg68k/arc/LZD121.ZIP) ... lzd / lzdsys version 1.21
 - [TWSYS10.ZIP](kg68k/arc/TWSYS10.ZIP) ... (V)TwentyOne.sys version 1.36c modified +14 patchlevel 10
 
 
