@@ -1,15 +1,8 @@
-# 桑島技研Online
+# 桑島技研Online 跡地
 
 最新の情報は
 https://github.com/kg68k
 をご覧ください。
-
-ここは今はファイル置き場になっています。
-
-## アーカイブ
-
-- [TWSYS10.ZIP](kg68k/arc/TWSYS10.ZIP) ... (V)TwentyOne.sys version 1.36c modified +14 patchlevel 10
-
 
 ---
 
